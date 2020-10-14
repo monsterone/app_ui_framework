@@ -1,0 +1,7 @@
+deviceName: MI9
+automationName: UiAutomator2
+platformName: Android
+platformVersion: 9
+appPackage: com.screx.mcloud
+appActivity: com.screx.mcloud.AppSplashActivity
+noReset: True
